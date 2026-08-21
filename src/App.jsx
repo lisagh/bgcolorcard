@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import { SketchPicker } from 'react-color';
 
 class App extends Component {
